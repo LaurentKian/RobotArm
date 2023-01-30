@@ -4,3 +4,5 @@
 This document also point out that we will deploy innovation chains around the industrial chain, allocate resources around the innovation chain, strengthen research on key core technologies, accelerate the industrialization of scientific and technological achievements, and improve innovation capacity in key links and key areas. In order to actively respond to the national call, the laboratory which I take part in independently builds robotic arms to ensure the mastery of all core technologies and promote industrial innovation and upgrading. 
 
 This log records all my learning process, so it must be complicate and comprehensive. During this time I must learn many new things about robot arms algorithm and Computer vision which help me to know more about my desired major. I will continually learn and become a better learner!
+
+![image-20230130200240661](https://cdn.jsdelivr.net/gh/LaurentKian/GraphBed/image-20230130200240661.png)
